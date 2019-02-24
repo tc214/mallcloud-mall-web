@@ -34,7 +34,7 @@ module.exports = {
 
     // Various Dev Server settings
     host: 'mallcloud.tc.com', // can be overwritten by process.env.HOST
-    port: 11001, // can be overwritten by process.env.PORT, if port is in use, a fre
+    port: 11006, // can be overwritten by process.env.PORT, if port is in use, a fre
     // host: 'localhost',// e one will be determined
     autoOpenBrowser: false,
     errorOverlay: true,
